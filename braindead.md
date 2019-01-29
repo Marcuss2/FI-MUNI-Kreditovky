@@ -2,6 +2,6 @@
 
 ## Podzim
 
-PV005 Služby počítačových sítí
+FI:PV005 Služby počítačových sítí
 
-PV119 Základy práva pro informatiky
+FI:PV119 Základy práva pro informatiky
