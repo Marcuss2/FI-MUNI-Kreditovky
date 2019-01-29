@@ -4,4 +4,4 @@ Obsahem jsou 3 soubory:
  - easier.md pro kreditovky které vyžadují minimální přípravu či minimální práci během semestru. (~30 minut týdně, ~hodina na zkoušku)
  - braindead.md pro kreditovky které by dokázal udělat i student Filozofické fakulty. (Tj. bez přípravy či méně než 10 minut týdně)
  
- Pouze přidávejte kteditovky které jste sami udělali.
+ Pouze přidávejte kreditovky které jste sami udělali.
