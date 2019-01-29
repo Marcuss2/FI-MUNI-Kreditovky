@@ -5,3 +5,5 @@ Obsahem jsou 3 soubory:
 - easy.md pro kreditovky které vyžadují nějakou lehkou přípravu či lehkou práci během semestru. (Všechny které nejdou dát do dalších 2 skupin)
  
  Pouze přidávejte kreditovky které jste sami udělali.
+
+Jakékoli nápady na vylepšení dejte do [Issues](https://github.com/Marcuss2/FI-MUNI-Kreditovky/issues).
